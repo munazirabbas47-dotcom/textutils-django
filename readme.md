@@ -6,7 +6,7 @@ This website allows users to perform different operations on their text easily.
 ## Features
 
 * Convert text to **UPPERCASE**
-* Convert text to **lowercase**
+* **Remove new lines**
 * **Remove extra spaces**
 * **Count characters**
 * **Remove punctuations**
